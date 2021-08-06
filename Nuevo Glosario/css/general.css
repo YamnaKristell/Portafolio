@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    font-family: cursive;
+}
+
+html{
+    font-size: 62.5%/* 10px */
+}
+/*Paleta de colores */
+
+:root{
+    --color1:--- #95D904;
+    --color2:--- #812F33;
+    --color3:--- #D9CFCC;
+    --color4:--- #000000;
+}
+
+/* Sizes de tipografia */
+:root{
+    --titulo-h1: 3.6rem;
+    --titulo-h2: 2.4rem;
+    --titulo-h3: 1.8rem;
+    --parrafo: 1.4rem;
+}
