@@ -32,6 +32,7 @@ COLEGIO SANTA CATALINA LABOURE
 16. Conectar tipografias con Css
 17. Etiqueta a
 18. Conexion html a css
+19. Como hacer adaptable una pagina web
 
 
 # Objetivos 🔍
