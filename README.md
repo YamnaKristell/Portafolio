@@ -49,7 +49,7 @@ En este link podran encontrar mi Home Page poniendo en practica todo lo visto en
 
 # Objetivos Futuros👩🏻‍💻
 - Organizar mis horarios y poder dedicarle tiempo a mi home page, para verificar detalles.
-- Por investigar y saber mas de como utilizar responsive design, quiero mejorar en ese aspecto ya que se me hizo dificultoso 
+- investigar y saber mas de como utilizar responsive design, quiero mejorar en ese aspecto ya que se me hizo dificultoso 
 espero mejorar el proximo portafolio.
 - Trabajar con toda la dedicacion y creatividad posible, mejorar mis conceptos del glosario y cambiar el diseño del mismo, realmente
 si me propongo a realizar un trabajo mejor y practicar todo aquello que se me haga dificil y asi obtendre resultados positivos.
